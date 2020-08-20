@@ -27,8 +27,8 @@ public class DataFake
 
     List<Client> clients = new LinkedList<>(Arrays.asList(
         new Client("Oleksandr", "Heroiv Krut", "0674186620", "ahoj"),
-          new Client("Lexa", "Des tam ", "096137442", "none likes him very much"),
-            new Client("Vlad", "Cheluskinsiv 32", "095312444", "ahoj")
+          new Client("Lexa", "Des' tam ", "0961374425", "no one likes him very much"),
+            new Client("Vlad", "Cheluskinsiv 32", "0953124446", "ahoj")
     ));
 
     List<TravelRoute> travelRoutes = new LinkedList<>(Arrays.asList(

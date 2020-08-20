@@ -39,18 +39,18 @@
     <div>
         <a href="/web/client/reloadDB">
             <input type="button", value="Reload Database" style="
-                        background-color: aquamarine;
-                        border-color: aqua;
-                        border-radius: 30px;
+                        background-color: darkseagreen;
+                        border-color: darkslategray;
+                        border-radius: 20px;
                         border-width: 10px;
                 "></a>
     </div>
     <div>
         <a href="/web/client/create">
             <input type="button" value="Create Client From" style="
-                        background-color: aquamarine;
-                        border-color: aqua;
-                        border-radius: 30px;
+                        background-color: darkseagreen;
+                        border-color: darkslategray;
+                        border-radius: 20px;
                         border-width: 10px;
                 ">
         </a>
